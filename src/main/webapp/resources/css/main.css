@@ -1,0 +1,10 @@
+div.absolute {
+font-family:sans-serif;
+font-style:italic;
+    position: absolute;
+    top: 300px;
+    right: 150px;
+    width: 200px;
+    height: 300px;
+    
+}
